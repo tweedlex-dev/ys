@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         -
 // @namespace    yandex_education_script
-// @version      2026-10-02
+// @version      2026-10-13
 // @description  -
 // @downloadURL  https://raw.githubusercontent.com/tweedlex-dev/ys/refs/heads/main/index.js
 // @updateURL    https://raw.githubusercontent.com/tweedlex-dev/ys/refs/heads/main/index.js
